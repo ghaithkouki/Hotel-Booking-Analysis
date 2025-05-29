@@ -82,7 +82,7 @@ This project aims to analyze various KPIs, including but not limited to:
     * R and RStudio (or your preferred R environment)
     * Power BI Desktop
 2.  **Setup:**
-    * Clone the repository: `git clone [(https://github.com/ghaithkouki/Hotel-Booking-Analysis)]`
+    * Clone the repository: `git clone https://github.com/ghaithkouki/Hotel-Booking-Analysis`
     * **Database:**
         * Create the MySQL database.
         * Run the schema creation scripts located in `data/`.
